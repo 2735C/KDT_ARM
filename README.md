@@ -11,11 +11,7 @@
 ### 프로젝트 요약
 
 
-![PPT_2](https://github.com/2735C/KDT_ARM/blob/main/History/Img/img0.png?raw=true)|
---|
-
-
-|<img src="/History/Img/img0.png" width=1000>|
+|<img src="/History/Img/img0.png" width=600>|
 |--|
 
 > ### 개발 환경
@@ -32,11 +28,8 @@
 | 달성       |  예제<br> 코드<br> 분석   |            |           | 과일<br> object <br>제작   |           | 과일<br> object <br>오류 해결 |  늑대 <br>object<br> 제작   |   오류 해결<br> 및 결과 보고서 <br>제작  |
 
 
-![PPT_3](https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_3.png?raw=true)|
---|
-
-![PPT_4](https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_4.png?raw=true)|
---|
+|<img src="/History/Img/ppt_4.png" width=600>|
+|--|
 
 > ### Game Rule
 
@@ -59,3 +52,17 @@
 ![Demo GIF3](https://github.com/2735C/KDT_ARM/blob/main/History/Gif/Level_3.gif?raw=true)
 
 8. Reset 옆 2번 핀을 내리고 Reset을 눌러 다시 시작한다. 
+
+
+|<img src="/History/Img/ppt_5.png" width=600>|
+|--|
+
+|<img src="/History/Img/ppt_6.png" width=600>|
+|--|
+
+|<img src="/History/Img/ppt_7.png" width=600>|
+|--|
+
+|<img src="/History/Img/ppt_8.png" width=500>|<img src="/History/Img/ppt_9.png" width=500>|
+|--|--|
+|<img src="/History/Img/ppt_10.png" width=500>|<img src="/History/Img/ppt_11.png" width=500>|
