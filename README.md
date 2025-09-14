@@ -1,6 +1,8 @@
-## :wolf: (총을 쏘고 싶었던) 빨간 모자와 늑대 게임
 
+![PPT_1](https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_1.png?raw=true)|
+--|
 
+### Personal Project
 ### 🖊️Role
 
 - 게임 스토리 기획
@@ -8,11 +10,19 @@
 
 ### 프로젝트 요약
 
-![PPT_1](https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_1.png?raw=true)|
---|
 
 ![PPT_2](https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_2.png?raw=true)|
 --|
+
+> ### 개발 환경
+
+> ### 개발 일정
+
+| 날짜       | 4/26 (토) | 4/27 (일) | 5/1 (목) | 5/2 (금) | 5/3 (토) | 5/4 (일) | 5/5 (월) | 5/6 (화) |
+|------------|------------|------------|-----------|-----------|-----------|-----------|-----------|-----------|
+| 목표       |     예제 코드 분석       |    과일 및 고정 object 구현   |    늑대 object 구현   |    결과 보고서 제작  |           |           |           |           |
+| 달성       |  예제 코드 분석   |            |           | 과일 object 제작   |           | 과일 object 오류 해결 |  늑대 object 제작   |   오류 해결 및 결과 보고서 제작  |
+
 
 ![PPT_3](https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_3.png?raw=true)|
 --|
