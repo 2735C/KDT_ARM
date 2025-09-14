@@ -27,6 +27,7 @@
 | 목표       |     예제 <br>코드<br> 분석       |    과일 및 고정<br> object 구현   |    늑대 <br>object <br>구현   |    결과 <br>보고서<br> 제작  |           |           |           |           |
 | 달성       |  예제<br> 코드<br> 분석   |            |           | 과일<br> object <br>제작   |           | 과일<br> object <br>오류 해결 |  늑대 <br>object<br> 제작   |   오류 해결<br> 및 결과 보고서 <br>제작  |
 
+> ### Game Ending Scenario
 
 |<img src="/History/Img/ppt_4.png" width=600>|
 |--|
@@ -53,6 +54,7 @@
 
 8. Reset 옆 2번 핀을 내리고 Reset을 눌러 다시 시작한다. 
 
+> ### 개발 결과
 
 |<img src="/History/Img/ppt_5.png" width=600>|
 |--|
@@ -66,3 +68,15 @@
 |<img src="/History/Img/ppt_8.png" width=500>|<img src="/History/Img/ppt_9.png" width=500>|
 |--|--|
 |<img src="/History/Img/ppt_10.png" width=500>|<img src="/History/Img/ppt_11.png" width=500>|
+
+
+> ### 프로젝트 마무리
+
+|<img src="/History/Img/ppt_12.png" width=600>|
+|--|
+
+|<img src="/History/Img/ppt_13.png" width=600>|
+|--|
+
+|<img src="/History/Img/ppt_14.png" width=600>|
+|--|
