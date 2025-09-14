@@ -2,7 +2,7 @@
 ![PPT_1](https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_1.png?raw=true)|
 --|
 
-### Personal Project
+### [Personal Project]
 ### 🖊️Role
 
 - 게임 스토리 기획
@@ -11,17 +11,25 @@
 ### 프로젝트 요약
 
 
-![PPT_2](https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_2.png?raw=true)|
+![PPT_2](https://github.com/2735C/KDT_ARM/blob/main/History/Img/img0.png?raw=true)|
 --|
 
+
+|<img src="/History/Img/img0.png" width=1000>|
+|--|
+
 > ### 개발 환경
+
+
+- 오브젝트: 빨간모자, 과일, 늑대 
+- 장비: stm32f10x(CORTEX-M3), LCD board
 
 > ### 개발 일정
 
 | 날짜       | 4/26 (토) | 4/27 (일) | 5/1 (목) | 5/2 (금) | 5/3 (토) | 5/4 (일) | 5/5 (월) | 5/6 (화) |
 |------------|------------|------------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 목표       |     예제 코드 분석       |    과일 및 고정 object 구현   |    늑대 object 구현   |    결과 보고서 제작  |           |           |           |           |
-| 달성       |  예제 코드 분석   |            |           | 과일 object 제작   |           | 과일 object 오류 해결 |  늑대 object 제작   |   오류 해결 및 결과 보고서 제작  |
+| 목표       |     예제 <br>코드<br> 분석       |    과일 및 고정<br> object 구현   |    늑대 <br>object <br>구현   |    결과 <br>보고서<br> 제작  |           |           |           |           |
+| 달성       |  예제<br> 코드<br> 분석   |            |           | 과일<br> object <br>제작   |           | 과일<br> object <br>오류 해결 |  늑대 <br>object<br> 제작   |   오류 해결<br> 및 결과 보고서 <br>제작  |
 
 
 ![PPT_3](https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_3.png?raw=true)|
