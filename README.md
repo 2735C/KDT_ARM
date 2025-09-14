@@ -8,7 +8,7 @@
 
 ### 프로젝트 요약
 
-<img src="History/img/ppt_1.png" width="1000">|
+![PPT_1](https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_1.png?raw=true)|
 --|
 
 <img src="History/img/ppt_2.png" width="1000">
