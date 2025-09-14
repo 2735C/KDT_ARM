@@ -11,7 +11,7 @@
 ![PPT_1](https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_1.png?raw=true)|
 --|
 
-<img src="History/img/ppt_2.png" width="1000">
+<img src="https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_2.png?raw=true" width="600">|
 --|
 
 |<img src="/History/img/ppt_3.png" width=1000>|
