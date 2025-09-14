@@ -7,8 +7,7 @@
 - Embedded C 코딩
 
 ### 프로젝트 요약
-
-<img src="History/img/ppt_1.png" width="1000">|
+![PPT 1](History/img/ppt_1.png)|
 --|
 
 <img src="History/img/ppt_2.png" width="1000">
