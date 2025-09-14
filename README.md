@@ -11,14 +11,13 @@
 ![PPT_1](https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_1.png?raw=true)|
 --|
 
-<img src="https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_2.png?raw=true" width="600">|
+![PPT_2](https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_2.png?raw=true)|
 --|
 
-|<img src="/History/img/ppt_3.png" width=1000>|
+![PPT_3](https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_3.png?raw=true)|
 --|
 
-
-|<img src="/History/img/ppt_4.png" width=1000>|
+![PPT_4](https://github.com/2735C/KDT_ARM/blob/main/History/Img/ppt_4.png?raw=true)|
 --|
 
 > ### Game Rule
@@ -30,8 +29,15 @@
 5. GHP =과일*3/5, GHP 개수에 따라 엔딩이 달라진다. 
 > (즉, 과일: 1개 -> GHP: 0, 과일: 2개 -> GHP: 1, 과일: 5개 -> GHP: 3)
 
-![Demo GIF](https://github.com/2735C/KDT_ARM/blob/main/History/Gif/Level_1.gif?raw=true)
+![Demo GIF1](https://github.com/2735C/KDT_ARM/blob/main/History/Gif/Level_1.gif?raw=true)
 
 6. 늑대는 게임 시작 10초 후부터 등장하며 자유이동한다. 충돌 시 빨간모자는 사망한다.
+
+![Demo GIF2](https://github.com/2735C/KDT_ARM/blob/main/History/Gif/Level_2.gif?raw=true)
+
+
 7. game over 시 LCD에 “GAME OVER” 출력된다.
+
+![Demo GIF3](https://github.com/2735C/KDT_ARM/blob/main/History/Gif/Level_3.gif?raw=true)
+
 8. Reset 옆 2번 핀을 내리고 Reset을 눌러 다시 시작한다. 
